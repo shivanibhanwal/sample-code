@@ -2,4 +2,6 @@
 
 # sample-code
 
+We are testing rebase
+
 This repository contains sample applications which are used mostly by appium functional tests.
